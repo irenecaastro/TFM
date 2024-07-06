@@ -1,6 +1,6 @@
 # TFM
 # Introduction
-In this repository, we will work in an R environment using RStudio for the analysis of sc-RNA-seq data following Seurat Guided Clustering Tutorial.
+In this repository, we will work in an R environment using RStudio for the analysis of sc-RNA-seq data following Seurat Guided Clustering Tutorial. Data can be accessed on Gene Expression Omnibus (GEO) database under the accession number GSE209792 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE209792).
 # Pipeline Description
 - Step 1: From two cell and gene annotation dataframes and one sparse-matrix, we create a Seurat object. 
 - Step 2: Cell filtering.
